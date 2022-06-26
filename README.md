@@ -3,7 +3,7 @@
 
 Questions:
 
-  1.  Different Subjects for which Udemy is avoiding Courses
+        1.  Different Subjects for which Udemy is avoiding Courses
 	2.  Depict count of Course_Title by Subject
 	3.  Visualising Paid courses by Course_Title
 	4.  Depict Course_ID by Course_Title
